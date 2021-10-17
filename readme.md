@@ -7,5 +7,5 @@
 
 [![FluuFleeT's github stats](https://github-readme-stats.vercel.app/api?username=FluuFleeT&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFleeT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--!>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--!>
 
