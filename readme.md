@@ -1,4 +1,4 @@
-- A senior high school student
+- PG Student
 - A programming beginner
 - Windows  + MacOS + Android + iOS user
 - Interested in Cryptography
