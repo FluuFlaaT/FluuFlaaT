@@ -1,6 +1,6 @@
 # FluuFlaaT
 
-[![wakatime](https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg)](https://wakatime.com/@018b6763-916a-43da-bbec-26f1b87f7563)
+[![wakatime](https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg)](https://wakatime.com/@018b6763-916a-43da-bbec-26f1b87f7563) 
 
 ## Who am I
 - Undergraduate 2022.9 - Now
