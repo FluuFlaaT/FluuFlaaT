@@ -9,6 +9,7 @@
 ## What am I discovering now
 - How to use Linux & task automations (especially on Arch Linux & KDE Plasma)
 - How OS kernel works
+- How neural network, ResNet, Conv layer and etc. work and which fields can be advanced with the help of nn.
 
 ## Now Learning
 - Natural Language: English, Japanese
