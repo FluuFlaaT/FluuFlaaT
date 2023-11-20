@@ -1,6 +1,7 @@
 # FluuFlaaT
 
 [![wakatime](https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg)](https://wakatime.com/@018b6763-916a-43da-bbec-26f1b87f7563) 
+![Visitor Count](https://komarev.com/ghpvc/?username=FluuFlaaT)
 
 ## Who am I
 - Undergraduate 2022.9 - Now
