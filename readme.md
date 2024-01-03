@@ -12,7 +12,7 @@
 - Take a look at [my blog in Chinese](https://new-blog.sakaseyo.cc)
 
 ## Skills
-![](https://img.shields.io/badge/Chinese-Native-blue) ![](https://img.shields.io/badge/English-Fluent-blue) ![](https://img.shields.io/badge/Japanese-Basic-blue)
+![](https://img.shields.io/badge/Chinese-Native-green?style=for-the-badge) ![](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge) ![](https://img.shields.io/badge/Japanese-Basic-red?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
