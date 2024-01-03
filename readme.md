@@ -5,10 +5,11 @@
 [![wakatime](https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg)](https://wakatime.com/@018b6763-916a-43da-bbec-26f1b87f7563) 
 ![Visitor Count](https://komarev.com/ghpvc/?username=FluuFlaaT)
 
-## Who am I
+## Nice to meet you and introduce myself:
 - Undergraduate 2022.9 - Now
 - IoT Engineering @ WHUT
 - Linux user. Now Arch + Plasma + ThinkPad.
+- Take a look at [my blog in Chinese](https://new-blog.sakaseyo.cc)
 
 ## Skills
 ![](https://img.shields.io/badge/Chinese-Native-blue) ![](https://img.shields.io/badge/English-Fluent-blue) ![](https://img.shields.io/badge/Japanese-Basic-blue)
