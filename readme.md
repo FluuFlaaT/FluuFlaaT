@@ -8,13 +8,12 @@
 ## Who am I
 - Undergraduate 2022.9 - Now
 - IoT Engineering @ WHUT
+- Linux user. Now Arch + Plasma + ThinkPad.
 
-## What am I discovering now
-- How to use Linux & task automations (especially on Arch Linux & KDE Plasma)
-- How OS kernel works
-- How neural network, ResNet, Conv layer and etc. work and which fields can be advanced with the help of nn.
+## Skills
+![](https://img.shields.io/badge/Chinese-Native-blue) ![](https://img.shields.io/badge/English-Fluent-blue) ![](https://img.shields.io/badge/Japanese-Basic-blue)
 
-## Now Learning
-- Natural Language: English, Japanese
-- Programming Language: C++, Python, MATLAB
-- Markup Language: Markdown, $\LaTeX$
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
