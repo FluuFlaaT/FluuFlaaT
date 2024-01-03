@@ -6,15 +6,23 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=FluuFlaaT)
 
 ## Nice to meet you and introduce myself:
-- Undergraduate 2022.9 - Now
-- IoT Engineering @ WHUT
-- Linux user. Now Arch + Plasma + ThinkPad.
+- IoT Engineering @ WHUT Undergraduate 2022.9 - Now
+- Linux newbie. Now Arch + Plasma + ThinkPad & Arch WSL + Windows + LEGION.
 - Take a look at [my blog in Chinese](https://new-blog.sakaseyo.cc)
 
 ## Skills
+<!-- natural language     -->
 ![](https://img.shields.io/badge/Chinese-Native-green?style=for-the-badge) ![](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge) ![](https://img.shields.io/badge/Japanese-Basic-red?style=for-the-badge)
 
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+<!-- programming language -->
+<!--        C family      -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 
-![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+<!--         Python       -->
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+<!--   notation language  -->
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+<!--       Tools          -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
