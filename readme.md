@@ -11,7 +11,7 @@
 
 ## Skills
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT" /> -->
 
 <!-- natural language     -->
 ![](https://img.shields.io/badge/Chinese-Native-green?style=for-the-badge) ![](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge) ![](https://img.shields.io/badge/Japanese-Basic-red?style=for-the-badge)
@@ -28,3 +28,7 @@
 
 <!--       Tools          -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## GitHub Stats
+
+![language-sum](https://github-readme-stats-six-tan-77.vercel.app/api/top-langs/?username=FluuFlaaT)
