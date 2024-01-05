@@ -7,7 +7,7 @@
 ## Nice to meet you and introduce myself:
 - IoT Engineering @ WHUT Undergraduate 2022.9 - Now
 - Linux newbie. Now Arch + Plasma + ThinkPad & Arch WSL + Windows + LEGION.
-- Take a look at [my blog in Chinese](https://new-blog.sakaseyo.cc)
+- How about taking a look at [my blog in Chinese](https://new-blog.sakaseyo.cc) ?
 
 ## Skills
 
