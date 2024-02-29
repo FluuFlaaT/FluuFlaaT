@@ -9,7 +9,10 @@
 - Linux newbie. Now Arch + Plasma + ThinkPad & Arch WSL + Windows + LEGION.
 - How about taking a look at [my blog in Chinese](https://new-blog.sakaseyo.cc) ?
 
+
 ## Skills
+
+<img src="https://wakatime.com/share/@FluuFlaaT/3d183d85-de58-45fa-a632-571fbabd86af.svg" width=350 align="right">
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=FluuFlaaT" /> -->
 
@@ -28,3 +31,4 @@
 
 <!--       Tools          -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
