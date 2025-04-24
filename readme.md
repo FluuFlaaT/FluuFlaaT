@@ -1,8 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=FluuFlaaT" align="right">
 <img src="https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg" align="right">
 
+
 # FluuFlaaT 
 > Undergraduate at Wuhan University of Technology
+
+<img src="https://wakatime.com/share/@FluuFlaaT/3d183d85-de58-45fa-a632-571fbabd86af.svg" width=350 align="right">
 
 ## My Works
 
@@ -38,8 +41,5 @@
     - Manage what you write - Markdown, $\LaTeX$
 
 ## To be continued...
-
-<img src="https://wakatime.com/share/@FluuFlaaT/3d183d85-de58-45fa-a632-571fbabd86af.svg" width=350 align="right">
-
 
 
