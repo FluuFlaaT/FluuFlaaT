@@ -1,5 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=FluuFlaaT" align="right">
-<img src="https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg" align="right">
+<img src="https://komarev.com/ghpvc/?username=FluuFlaaT" align="right"> <img src="https://wakatime.com/badge/user/018b6763-916a-43da-bbec-26f1b87f7563.svg" align="right">
 
 
 # FluuFlaaT 
