@@ -4,7 +4,7 @@
 # FluuFlaaT
 > CS undergrad · Wuhan University of Technology
 
-<img src="https://wakatime.com/share/@FluuFlaaT/3d183d85-de58-45fa-a632-571fbabd86af.svg" width="340" align="right">
+<img src="https://wakatime.com/share/@FluuFlaaT/3d183d85-de58-45fa-a632-571fbabd86af.svg" width="240" align="right">
 
 ## Projects
 
